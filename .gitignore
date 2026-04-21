@@ -1,0 +1,11 @@
+data/raw/
+data/processed/
+*.csv
+!submissions/*.csv
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+kaggle.json
+*.pkl
+*.joblib
