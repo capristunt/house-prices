@@ -9,3 +9,6 @@ __pycache__/
 kaggle.json
 *.pkl
 *.joblib
+.DS_Store
+.DS_Store data
+**/.DS_Store
